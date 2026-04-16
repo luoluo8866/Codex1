@@ -1,0 +1,7 @@
+interface:
+  display_name: "Experiment Protocol Writer"
+  short_description: "查资料补全实验 protocol，并保留固定 Word 样式"
+  default_prompt: "Use $experiment-protocol-writer to 根据简略实验步骤查找资料、补全内容，并整理成固定结构和 Word 样式。"
+
+policy:
+  allow_implicit_invocation: true
